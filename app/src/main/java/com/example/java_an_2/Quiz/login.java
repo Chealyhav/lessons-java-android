@@ -70,7 +70,7 @@ public class login extends AppCompatActivity {
                     return;
                 }
 
-                if (username.equals("User") && password.equals("password123")) {
+                if (username.equals("ChhoeunMach") && password.equals("password123")) {
                     Intent intent = new Intent(getApplicationContext(), dashboard.class);
                     intent.putExtra("username", username);
                     startActivity(intent);
