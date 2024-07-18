@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Java-An-2</string>
+    <array name="language">
+        <item name="java"/>
+        <item name="C#"/>
+        <item name="php"/>
+        <item name="javascript"/>
+        <item name="python"/>
+    </array>
 </resources>
